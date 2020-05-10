@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1589083801">
-  <project timestamp="1589083801">
+<coverage generated="1589084481">
+  <project timestamp="1589084481">
     <package name="Acme">
       <file name="/installed/testeUnitario/src/MajorChords.php">
         <class name="Acme\MajorChords" namespace="Acme">
